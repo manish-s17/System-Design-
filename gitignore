@@ -1,0 +1,14 @@
+# Ignore all directories named target
+target/
+
+# Ignore the target_cpp directory
+target_cpp/
+
+# Ignore compiled C/C++ files
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.a
